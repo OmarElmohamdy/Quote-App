@@ -1,0 +1,23 @@
+div {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    font-family: 'Anton', sans-serif;
+    font-size: 72px;
+}
+
+.btn{
+    background-color: blue;
+    padding: 30px 100px;
+    color: #fff;
+}
+.btn:hover{
+    background-color: green;
+    cursor: pointer;
+}
